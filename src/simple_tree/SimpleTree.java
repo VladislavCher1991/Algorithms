@@ -1,4 +1,5 @@
-import myqueue.MyStack;
+package simple_tree;
+
 import myqueue.SimpleQueue;
 
 public class SimpleTree {

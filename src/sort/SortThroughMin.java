@@ -2,7 +2,7 @@ package sort;
 
 import java.util.Arrays;
 
-public class SortThroughtMin {
+public class SortThroughMin {
 
     static int[] arr = new int[]{16, 32, 45, 86, 34, 12, 9, 37, 99, 10, 94, 72, 64, 54, 10};
 
